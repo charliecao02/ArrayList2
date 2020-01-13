@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Q1
+comment1.params=n
+comment1.target=java.util.ArrayList\ main(int)
+comment2.params=list
+comment2.target=java.util.ArrayList\ sieve(java.util.ArrayList)
+comment3.params=n
+comment3.target=java.util.ArrayList\ makeList(int)
+numComments=4
